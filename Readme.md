@@ -31,7 +31,7 @@
 
 ## 2.매뉴 설명
 
-![image-20211220211308715](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20211220211308715.png)
+![](C:\Users\user\OneDrive\바탕 화면\Othello\Othello\Images\markdown\mainmenu.PNG)
 
 매인매뉴는 
 
@@ -45,13 +45,13 @@
 
 `설명보기`를 누르면 
 
-![image-20211220211527117](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20211220211527117.png)
+![](C:\Users\user\OneDrive\바탕 화면\Othello\Othello\Images\markdown\explain.PNG)
 
 위와 같은 화면이 나오고 `돌아가기` 버튼을 누르면 시작매뉴로 돌아갑니다.
 
 `시작하기`를 누르면
 
-![image-20211220211832946](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20211220211832946.png) 
+​					 ![](C:\Users\user\OneDrive\바탕 화면\Othello\Othello\Images\markdown\player.PNG)
 
 - `혼자서 플레이`
 - `두명이서 플레이`
@@ -62,7 +62,7 @@
 
 `혼자서 플레이`를 누를 경우
 
-![image-20211220212219346](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20211220212219346.png)
+![](C:\Users\user\OneDrive\바탕 화면\Othello\Othello\Images\markdown\stone.PNG)
 
 - `겅은색으로 플레이`
 - `흰색으로 플레이`
@@ -74,7 +74,7 @@
 
 
 
-![image-20211220212543845](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20211220212543845.png)
+![](C:\Users\user\OneDrive\바탕 화면\Othello\Othello\Images\markdown\game.PNG)
 
 해당 이미지는 본 게임의 초기 화면입니다. 오른쪽 위에는 현재 누구의 턴인지를 나타내주고 오른쪽 아래에는 검은색 돌과  흰색 돌의 점수를 표시해줍니다. 마우스 커서를 아무 네모칸에 올려 놓으면 현재  턴의 돌이 표시되지만  아무곳에나 돌을 올릴 수 있는것은 아닙니다. 규칙에 의거하여 돌을 놓는 것이 가능한 곳을 클릭하면 그 색갈의 돌이 놓아지고 같은 색 사이의 다른 색 돌들의 색이 바뀝니다. 
 
@@ -82,6 +82,6 @@
 
 CPU의 경우 자동으로 턴이 넘어갑니다.
 
-![image-20211220213537556](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20211220213537556.png)
+![](C:\Users\user\OneDrive\바탕 화면\Othello\Othello\Images\markdown\win.PNG)
 
 플레이 후에 이겻을 경우 위의 화면처럼 점수가 높은 돌을 보여줍니다. 이 화면에서 esc키를 누르면 시작화면으로 돌아갑니다.
